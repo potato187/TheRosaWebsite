@@ -1,0 +1,38 @@
+/* Source Sans Pro */
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("../fonts/source-sans-pro-v14-latin-regular.woff2") format("woff2"),
+    url("../fonts/source-sans-pro-v14-latin-regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: "Source Sans Pro";
+  src: url("../fonts/source-sans-pro-v14-latin-900.woff2") format("woff2"),
+    url("../fonts/source-sans-pro-v14-latin-900.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: fallback;
+}
+
+/* Herr Von Muellerhoff font */
+
+@font-face {
+  font-family: "Herr Von Muellerhoff";
+  src: url("./HerrVonMuellerhoff-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-size: normal;
+  font-display: fallback;
+}
+
+/* Cabin font */
+@font-face {
+  font-family: "Cabin";
+  src: url("../fonts/cabin-v17-latin-500.woff2") format("woff2"),
+    url("../fonts/cabin-v17-latin-500.woff") format("woff");
+  font-weight: 500;
+  font-size: normal;
+  font-display: fallback;
+}
